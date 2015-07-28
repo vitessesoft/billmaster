@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: com.vitessesoft.billmaster.ordermodule
+OpenIDE-Module-Localizing-Bundle: com/vitessesoft/billmaster/ordermodule/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
